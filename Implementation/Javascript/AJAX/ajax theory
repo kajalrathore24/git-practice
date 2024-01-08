@@ -1,0 +1,10 @@
+Defined as asynchronous javascript and XML
+not a programming language
+uses a combnation of:
+xml http request creates object and send the data or request the data and server provides the response which is done by html dom
+
+multiple process running simultaneously
+
+
+load method load data from a server and puts the returned data into the selected element.
+Syntax: $(selector).load(URL,data,callback);

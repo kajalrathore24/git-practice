@@ -1,0 +1,6 @@
+json stands for javascript object notation
+json text formating for storing and transporting data
+
+json strings into javascript object--JSON.parse()
+object to json string-JON.stringify()
+
